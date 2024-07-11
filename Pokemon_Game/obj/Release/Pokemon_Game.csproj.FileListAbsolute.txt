@@ -1,0 +1,14 @@
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\bin\Release\Pokemon_Game.exe.config
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\bin\Release\Pokemon_Game.exe
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\bin\Release\Pokemon_Game.pdb
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.Form1.resources
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.Instruction.resources
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.Play.resources
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.Play1.resources
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.Play2.resources
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.Properties.Resources.resources
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.Round.resources
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.csproj.GenerateResource.cache
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.csproj.CoreCompileInputs.cache
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.exe
+D:\GUI_with_c#\Eid_Holidays_Assignment\Pokemon_Game\obj\Release\Pokemon_Game.pdb
